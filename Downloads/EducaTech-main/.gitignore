@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+/.idea
+/.vscode
+
+# Android & iOS Firebase config (keep local)
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+
+# Local firebase web config (keep local)
+/assets/jsons/firebase_config.json
+
+# macOS
+*.lock
