@@ -16,14 +16,17 @@ Para instalar, o usuário pode fazer o download do APK disponivel em RELEASES, e
 
 ## 👨‍💻 Autores
 Arthur Lopes de Oliveira
+
 GitHub: https://github.com/ArthurLopes985  
 LinkedIn: https://linkedin.com/in/arthurlopes985
 
 Bruno da Silva Negy
+
 GitHub: https://github.com/BrunoNegy  
 LinkedIn: https://linkedin.com/in/bruno-da-silva-negy-8884132a6
 
 João Vitor da Silva Martins Vaz
+
 GitHub: https://github.com/JoaoVitor674 
 LinkedIn: https://linkedin.com/in/joão-vitor-80a6622b7
 
