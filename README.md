@@ -15,18 +15,15 @@ Nesse aplicativo o usuário se cadastra e faz login através do Firebase Auth, d
 Para instalar, o usuário pode fazer o download do APK disponivel em RELEASES, e instalar em seu celular Android ou emulador Android via PC, não disponivel em celulares IOS.
 
 ## 👨‍💻 Autores
-Arthur Lopes de Oliveira
-
+Arthur Lopes de Oliveira                                                                                                                                                                    
 GitHub: https://github.com/ArthurLopes985  
 LinkedIn: https://linkedin.com/in/arthurlopes985
 
-Bruno da Silva Negy
-
+Bruno da Silva Negy                                                                                                                                                                         
 GitHub: https://github.com/BrunoNegy  
 LinkedIn: https://linkedin.com/in/bruno-da-silva-negy-8884132a6
 
-João Vitor da Silva Martins Vaz
-
+João Vitor da Silva Martins Vaz                                                                                                                                                             
 GitHub: https://github.com/JoaoVitor674                                                                                                                                                            
 LinkedIn: https://linkedin.com/in/joão-vitor-80a6622b7
 
