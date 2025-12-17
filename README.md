@@ -27,7 +27,7 @@ LinkedIn: https://linkedin.com/in/bruno-da-silva-negy-8884132a6
 
 João Vitor da Silva Martins Vaz
 
-GitHub: https://github.com/JoaoVitor674 
+GitHub: https://github.com/JoaoVitor674                                                                                                                                                            
 LinkedIn: https://linkedin.com/in/joão-vitor-80a6622b7
 
 Julia Martins Costa 
